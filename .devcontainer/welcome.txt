@@ -1,0 +1,8 @@
+Welcome to F27SA Lab 5! 💻
+
+Here your exercises will be on using the 'Math' library.
+
+To get started, head over to the ./src folder and
+click on any of the Java files provided.
+
+Happy Coding :)
